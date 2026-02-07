@@ -1,0 +1,4 @@
+hello world 
+how are you 
+welcome to exception handling in python 
+this is a sample file for testing purposes
