@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 101,
+      "name": "Anish",
+      "subjects": ["Python", "SQL", "Statistics"],
+      "marks": {
+        "Python": 92,
+        "SQL": 85,
+        "Statistics": 88
+      }
+    },
+    {
+      "id": 102,
+      "name": "Riya",
+      "subjects": ["Python", "SQL", "Statistics"],
+      "marks": {
+        "Python": 86,
+        "SQL": 91,
+        "Statistics": 90
+      }
+    }
+  ]
+}

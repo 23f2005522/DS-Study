@@ -1,0 +1,18 @@
+ArticleTitle	Question	Answer	DifficultyFromQuestioner	DifficultyFromAnswerer	ArticleFile
+Abraham_Lincoln	Was Abraham Lincoln the sixteenth President of the United States?	yes	easy	easy	S08_set3_a4
+Abraham_Lincoln	Was Abraham Lincoln the sixteenth President of the United States?	Yes.	easy	easy	S08_set3_a4
+Abraham_Lincoln	Did Lincoln sign the National Banking Act of 1863?	yes	easy	medium	S08_set3_a4
+Abraham_Lincoln	Did Lincoln sign the National Banking Act of 1863?	Yes.	easy	easy	S08_set3_a4
+Abraham_Lincoln	Did his mother die of pneumonia?	no	easy	medium	S08_set3_a4
+Abraham_Lincoln	Did his mother die of pneumonia?	No.	easy	easy	S08_set3_a4
+Abraham_Lincoln	How many long was Lincoln's formal education?	18 months	medium	easy	S08_set3_a4
+Abraham_Lincoln	How many long was Lincoln's formal education?	18 months.	medium	medium	S08_set3_a4
+Abraham_Lincoln	When did Lincoln begin his political career?	1832	medium	easy	S08_set3_a4
+Abraham_Lincoln	When did Lincoln begin his political career?	1832.	medium	medium	S08_set3_a4
+Abraham_Lincoln	What did The Legal Tender Act of 1862 establish?	the United States Note, the first paper currency in United States history	medium	easy	S08_set3_a4
+Abraham_Lincoln	What did The Legal Tender Act of 1862 establish?	the United States Note, the first paper currency in United States history.	medium	easy	S08_set3_a4
+Abraham_Lincoln	Who suggested Lincoln grow a beard?	11-year-old Grace Bedell	hard	medium	S08_set3_a4
+Abraham_Lincoln	Who suggested Lincoln grow a beard?	Grace Bedell.	hard	medium	S08_set3_a4
+Abraham_Lincoln	When did the Gettysburg address argue that America was born?	1776	hard	hard	S08_set3_a4
+Abraham_Lincoln	When did the Gettysburg address argue that America was born?	1776.	hard	hard	S08_set3_a4
+Abraham_Lincoln	Did Lincoln beat John C. Breckinridge in the 1860 election?	yes	hard	medium	S08_set3_a4

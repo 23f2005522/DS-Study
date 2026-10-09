@@ -1,0 +1,9 @@
+studentid,name,marks,grade,height
+1,John,xx,A,5.5
+2,Jane,92,A,5.8
+3,Bob,78,B,x
+4,Alice,88,A,x
+5,Tom,xx,C,x
+6,Emily,95,A,5.7
+7,-,72,B,5.4
+8,-,80,B,5.1
